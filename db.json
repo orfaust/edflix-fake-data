@@ -1,0 +1,67 @@
+{
+  "lessonsDashboard": [
+    {
+      "label": "S1",
+      "title": "Migration and Settlement",
+      "summary": "History / Understanding our past",
+      "duration": 60
+    },
+    {
+      "label": "S2",
+      "title": "State formation in East Africa",
+      "summary": "History / Understanding our past",
+      "duration": 180
+    }
+  ],
+  "lessonsCount": {
+    "personal": 21,
+    "public": 135
+  },
+  "lessonsList": [
+    {
+      "label": "S1",
+      "title": "Migration and Settlement",
+      "summary": "History / Understanding our past",
+      "duration": 60
+    },
+    {
+      "label": "S2",
+      "title": "State formation in East Africa",
+      "summary": "History / Understanding our past",
+      "duration": 180
+    },
+    {
+      "label": "S2",
+      "title": "Travel",
+      "summary": "Geography / Public",
+      "duration": 120
+    },
+    {
+      "label": "S4",
+      "title": "Number bases",
+      "summary": "Mathematics / Numbers",
+      "duration": 60
+    },
+    {
+      "label": "S4",
+      "title": "Trigonometry 1",
+      "summary": "Mathematics / Angles and triangles",
+      "duration": 30
+    },
+    {
+      "label": "S4",
+      "title": "Trigonometry 2",
+      "summary": "Mathematics / Angles and triangles",
+      "duration": 45
+    }
+  ],
+  "accountInfo": {
+    "firstName": "John",
+    "lastName": "Mbabazi",
+    "picture": "https://randomuser.me/api/portraits/women/30.jpg",
+    "school": "Luigi Giussani H/S",
+    "subject1": "History",
+    "subject2": "Biology",
+    "subject3": "Philosophy"
+  } 
+}
