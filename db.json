@@ -58,10 +58,10 @@
   "accountInfo": {
     "firstName": "John",
     "lastName": "Mbabazi",
-    "picture": "https://randomuser.me/api/portraits/women/30.jpg",
+    "picture": "https://randomuser.me/api/portraits/men/80.jpg",
     "school": "Luigi Giussani H/S",
     "subject1": "History",
     "subject2": "Biology",
     "subject3": "Philosophy"
-  } 
+  }
 }
