@@ -63,7 +63,82 @@
       "duration": 45
     }
   ],
+  "lessons": [
+    {
+      "id": "1",
+      "label": "S1",
+      "title": "Migration and Settlement",
+      "summary": "History / Understanding our past",
+      "duration": 60,
+      "owner": 0
+    },
+    {
+      "id": "2",
+      "label": "S2",
+      "title": "State formation in East Africa",
+      "summary": "History / Understanding our past",
+      "duration": 180,
+      "owner": 0
+    },
+    {
+      "id": "3",
+      "label": "S2",
+      "title": "Travel",
+      "summary": "Geography / Public",
+      "duration": 120,
+      "owner": 0
+    },
+    {
+      "id": "4",
+      "label": "S4",
+      "title": "Number bases",
+      "summary": "Mathematics / Numbers",
+      "duration": 60,
+      "owner": 0
+    },
+    {
+      "id": "5",
+      "label": "S4",
+      "title": "Trigonometry 1",
+      "summary": "Mathematics / Angles and triangles",
+      "duration": 30,
+      "owner": 0
+    },
+    {
+      "id": "6",
+      "label": "S4",
+      "title": "Trigonometry 2",
+      "summary": "Mathematics / Angles and triangles",
+      "duration": 45,
+      "owner": 0
+    },
+    {
+      "id": "1",
+      "label": "S1",
+      "title": "Migration and Settlement",
+      "summary": "History / Understanding our past",
+      "duration": 60,
+      "owner": 1
+    },
+    {
+      "id": "2",
+      "label": "S2",
+      "title": "State formation in East Africa",
+      "summary": "History / Understanding our past",
+      "duration": 180,
+      "owner": 1
+    },
+    {
+      "id": "3",
+      "label": "S2",
+      "title": "Travel",
+      "summary": "Geography / Public",
+      "duration": 120,
+      "owner": 1
+    }
+  ],
   "accountInfo": {
+    "id": 1,
     "firstName": "John",
     "lastName": "Mbabazi",
     "picture": "https://randomuser.me/api/portraits/men/80.jpg",
