@@ -2,14 +2,14 @@
   "lessonsDashboard": [
     {
       "id": 1,
-      "label": "S1",
+      "classLevel": "S1",
       "title": "Migration and Settlement",
       "summary": "History / Understanding our past",
       "duration": 60
     },
     {
       "id": 2,
-      "label": "S2",
+      "classLevel": "S2",
       "title": "State formation in East Africa",
       "summary": "History / Understanding our past",
       "duration": 180
@@ -22,42 +22,68 @@
   "lessonsList": [
     {
       "id": 1,
-      "label": "S1",
+      "classLevel": "S1",
       "title": "Migration and Settlement",
       "summary": "History / Understanding our past",
-      "duration": 60
+      "duration": 60,
+      "steps": [
+        {
+          "title": "Step 1",
+          "duration": "10",
+          "teacher_activity": "- Asks each learner to list at least three names of trees in his/her community\n- The teacher writes the list of trees generated from learners’ lists on the chalk board and asks them to write the list in their books",
+          "student_activity": "- Each learner notes down at least three names of trees in his/her community\n- Write the list of trees in their communities in their exercise books",
+          "knowledge": "- Name of the trees in their communities",
+          "value": "Wonder/curiosity to help learners pay attention to their surroundings",
+          "skills": "- Identifying the various trees in their communities",
+          "output": "- A list of at least three names of trees in his/her community",
+          "assessment_criteria": "- Checking the list of three names of trees in the community the learner comes from",
+          "tutor_note": ""
+        },
+        {
+          "title": "Step 1",
+          "duration": "10",
+          "teacher_activity": "- Asks each learner to list at least three names of trees in his/her community\n- The teacher writes the list of trees generated from learners’ lists on the chalk board and asks them to write the list in their books",
+          "student_activity": "- Each learner notes down at least three names of trees in his/her community\n- Write the list of trees in their communities in their exercise books",
+          "knowledge": "- Name of the trees in their communities",
+          "value": "Wonder/curiosity to help learners pay attention to their surroundings",
+          "skills": "- Identifying the various trees in their communities",
+          "output": "- A list of at least three names of trees in his/her community",
+          "assessment_criteria": "- Checking the list of three names of trees in the community the learner comes from",
+          "tutor_note": ""
+        }
+      ]
     },
     {
       "id": 2,
-      "label": "S2",
+      "classLevel": "S2",
       "title": "State formation in East Africa",
       "summary": "History / Understanding our past",
       "duration": 180
     },
     {
       "id": 3,
-      "label": "S2",
+      "classLevel": "S2",
       "title": "Travel",
       "summary": "Geography / Public",
       "duration": 120
     },
     {
       "id": 4,
-      "label": "S4",
+      "classLevel": "S4",
       "title": "Number bases",
       "summary": "Mathematics / Numbers",
       "duration": 60
     },
     {
       "id": 5,
-      "label": "S4",
+      "classLevel": "S4",
       "title": "Trigonometry 1",
       "summary": "Mathematics / Angles and triangles",
       "duration": 30
     },
     {
       "id": 6,
-      "label": "S4",
+      "classLevel": "S4",
       "title": "Trigonometry 2",
       "summary": "Mathematics / Angles and triangles",
       "duration": 45
@@ -66,7 +92,7 @@
   "lessons": [
     {
       "id": 1,
-      "label": "S1",
+      "classLevel": "S1",
       "title": "Migration and Settlement",
       "summary": "History / Understanding our past",
       "duration": 60,
@@ -74,7 +100,7 @@
     },
     {
       "id": 2,
-      "label": "S2",
+      "classLevel": "S2",
       "title": "State formation in East Africa",
       "summary": "History / Understanding our past",
       "duration": 180,
@@ -82,7 +108,7 @@
     },
     {
       "id": 3,
-      "label": "S2",
+      "classLevel": "S2",
       "title": "Travel",
       "summary": "Geography / Public",
       "duration": 120,
@@ -90,7 +116,7 @@
     },
     {
       "id": 4,
-      "label": "S4",
+      "classLevel": "S4",
       "title": "Number bases",
       "summary": "Mathematics / Numbers",
       "duration": 60,
@@ -98,7 +124,7 @@
     },
     {
       "id": 5,
-      "label": "S4",
+      "classLevel": "S4",
       "title": "Trigonometry 1",
       "summary": "Mathematics / Angles and triangles",
       "duration": 30,
@@ -106,7 +132,7 @@
     },
     {
       "id": 6,
-      "label": "S4",
+      "classLevel": "S4",
       "title": "Trigonometry 2",
       "summary": "Mathematics / Angles and triangles",
       "duration": 45,
@@ -114,7 +140,7 @@
     },
     {
       "id": 7,
-      "label": "S1",
+      "classLevel": "S1",
       "title": "Migration and Settlement",
       "summary": "History / Understanding our past",
       "duration": 60,
@@ -122,7 +148,7 @@
     },
     {
       "id": 8,
-      "label": "S2",
+      "classLevel": "S2",
       "title": "State formation in East Africa",
       "summary": "History / Understanding our past",
       "duration": 180,
@@ -130,7 +156,7 @@
     },
     {
       "id": 9,
-      "label": "S2",
+      "classLevel": "S2",
       "title": "Travel",
       "summary": "Geography / Public",
       "duration": 120,
