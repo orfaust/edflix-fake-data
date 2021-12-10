@@ -29,8 +29,9 @@
       "ownerId": 0,
       "steps": [
         {
+          "id": 1,
           "title": "Step 1",
-          "duration": "10",
+          "duration": 10,
           "teacher_activity": "- Asks each learner to list at least three names of trees in his/her community\n- The teacher writes the list of trees generated from learners’ lists on the chalk board and asks them to write the list in their books",
           "student_activity": "- Each learner notes down at least three names of trees in his/her community\n- Write the list of trees in their communities in their exercise books",
           "knowledge": "- Name of the trees in their communities",
@@ -41,8 +42,9 @@
           "tutor_note": ""
         },
         {
+          "id": 2,
           "title": "Step 1",
-          "duration": "10",
+          "duration": 10,
           "teacher_activity": "- Asks each learner to list at least three names of trees in his/her community\n- The teacher writes the list of trees generated from learners’ lists on the chalk board and asks them to write the list in their books",
           "student_activity": "- Each learner notes down at least three names of trees in his/her community\n- Write the list of trees in their communities in their exercise books",
           "knowledge": "- Name of the trees in their communities",
