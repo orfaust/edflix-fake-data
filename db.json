@@ -19,13 +19,14 @@
     "personal": 21,
     "public": 135
   },
-  "lessonsList": [
+  "lessons": [
     {
       "id": 1,
       "classLevel": "S1",
       "title": "Migration and Settlement",
       "summary": "History / Understanding our past",
       "duration": 60,
+      "ownerId": 0,
       "steps": [
         {
           "title": "Step 1",
@@ -52,51 +53,6 @@
           "tutor_note": "note"
         }
       ]
-    },
-    {
-      "id": 2,
-      "classLevel": "S2",
-      "title": "State formation in East Africa",
-      "summary": "History / Understanding our past",
-      "duration": 180
-    },
-    {
-      "id": 3,
-      "classLevel": "S2",
-      "title": "Travel",
-      "summary": "Geography / Public",
-      "duration": 120
-    },
-    {
-      "id": 4,
-      "classLevel": "S4",
-      "title": "Number bases",
-      "summary": "Mathematics / Numbers",
-      "duration": 60
-    },
-    {
-      "id": 5,
-      "classLevel": "S4",
-      "title": "Trigonometry 1",
-      "summary": "Mathematics / Angles and triangles",
-      "duration": 30
-    },
-    {
-      "id": 6,
-      "classLevel": "S4",
-      "title": "Trigonometry 2",
-      "summary": "Mathematics / Angles and triangles",
-      "duration": 45
-    }
-  ],
-  "lessons": [
-    {
-      "id": 1,
-      "classLevel": "S1",
-      "title": "Migration and Settlement",
-      "summary": "History / Understanding our past",
-      "duration": 60,
-      "ownerId": 0
     },
     {
       "id": 2,
