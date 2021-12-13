@@ -6,7 +6,7 @@
   "plans": [
     {
       "id": 1,
-      "classLevel": "S1",
+      "class": "S1",
       "title": "Migration and Settlement",
       "subject": "History / Understanding our past",
       "duration": 60,
@@ -55,7 +55,7 @@
     },
     {
       "id": 2,
-      "classLevel": "S2",
+      "class": "S2",
       "title": "State formation in East Africa",
       "subject": "History / Understanding our past",
       "duration": 180,
@@ -63,7 +63,7 @@
     },
     {
       "id": 3,
-      "classLevel": "S2",
+      "class": "S2",
       "title": "Travel",
       "subject": "Geography / Public",
       "duration": 120,
@@ -71,7 +71,7 @@
     },
     {
       "id": 4,
-      "classLevel": "S4",
+      "class": "S4",
       "title": "Number bases",
       "subject": "Mathematics / Numbers",
       "duration": 60,
@@ -79,7 +79,7 @@
     },
     {
       "id": 5,
-      "classLevel": "S4",
+      "class": "S4",
       "title": "Trigonometry 1",
       "subject": "Mathematics / Angles and triangles",
       "duration": 30,
@@ -87,7 +87,7 @@
     },
     {
       "id": 6,
-      "classLevel": "S4",
+      "class": "S4",
       "title": "Trigonometry 2",
       "subject": "Mathematics / Angles and triangles",
       "duration": 45,
@@ -95,7 +95,7 @@
     },
     {
       "id": 7,
-      "classLevel": "S1",
+      "class": "S1",
       "title": "Migration and Settlement",
       "subject": "History / Understanding our past",
       "duration": 60,
@@ -103,7 +103,7 @@
     },
     {
       "id": 8,
-      "classLevel": "S2",
+      "class": "S2",
       "title": "State formation in East Africa",
       "subject": "History / Understanding our past",
       "duration": 180,
@@ -111,7 +111,7 @@
     },
     {
       "id": 9,
-      "classLevel": "S2",
+      "class": "S2",
       "title": "Travel",
       "subject": "Geography / Public",
       "duration": 120,
