@@ -1,9 +1,9 @@
 {
-  "lessonsCount": {
+  "plansCount": {
     "personal": 21,
     "public": 135
   },
-  "lessons": [
+  "plans": [
     {
       "id": 1,
       "classLevel": "S1",
