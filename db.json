@@ -1,20 +1,4 @@
 {
-  "lessonsDashboard": [
-    {
-      "id": 1,
-      "classLevel": "S1",
-      "title": "Migration and Settlement",
-      "summary": "History / Understanding our past",
-      "duration": 60
-    },
-    {
-      "id": 2,
-      "classLevel": "S2",
-      "title": "State formation in East Africa",
-      "summary": "History / Understanding our past",
-      "duration": 180
-    }
-  ],
   "lessonsCount": {
     "personal": 21,
     "public": 135
@@ -43,7 +27,20 @@
         },
         {
           "id": 2,
-          "title": "Step 1",
+          "title": "Step 2",
+          "duration": 10,
+          "teacher_activity": "- Asks each learner to list at least three names of trees in his/her community\n- The teacher writes the list of trees generated from learners’ lists on the chalk board and asks them to write the list in their books",
+          "student_activity": "",
+          "knowledge": "- Name of the trees in their communities",
+          "value": "Wonder/curiosity to help learners pay attention to their surroundings",
+          "skills": "- Identifying the various trees in their communities",
+          "output": "- A list of at least three names of trees in his/her community",
+          "assessment_criteria": "- Checking the list of three names of trees in the community the learner comes from",
+          "tutor_note": ""
+        },
+        {
+          "id": 3,
+          "title": "Step 3",
           "duration": 10,
           "teacher_activity": "- Asks each learner to list at least three names of trees in his/her community\n- The teacher writes the list of trees generated from learners’ lists on the chalk board and asks them to write the list in their books",
           "student_activity": "- Each learner notes down at least three names of trees in his/her community\n- Write the list of trees in their communities in their exercise books",
@@ -51,7 +48,7 @@
           "value": "Wonder/curiosity to help learners pay attention to their surroundings",
           "skills": "- Identifying the various trees in their communities",
           "output": "- A list of at least three names of trees in his/her community",
-          "assessment_criteria": "- Checking the list of three names of trees in the community the learner comes from",
+          "assessment_criteria": "",
           "tutor_note": "note"
         }
       ]
